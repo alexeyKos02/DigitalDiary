@@ -1,3 +1,6 @@
+### README по frontend
+
+ReadMe для фронта находится в папке client
 ### Digital Diary
 
 Digital Diary - электронный дневник для школ.
